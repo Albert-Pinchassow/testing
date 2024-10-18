@@ -1,2 +1,3 @@
-# testing
-Repository to upload my personal projects
+# Terminal weather app
+
+This repository contains the code to run a CLI based weather app.
